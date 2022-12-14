@@ -1,1 +1,2 @@
-# SQL_tips
+# SQL Tips & Tricks
+
